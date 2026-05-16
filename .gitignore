@@ -1,0 +1,6 @@
+data/tmp/*
+data/vector_stores/
+__pycache__/
+*.pyc
+.env
+.DS_Store
